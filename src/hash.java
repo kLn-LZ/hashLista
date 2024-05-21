@@ -4,7 +4,7 @@ import java.util.List;
 public class hash {
     public static void main(String[] args) {
 
-        int[] num = {0, 5, 12, 19, 25, 37, 45, 56, 68, 79, 88, 90, 99};
+        int[] num = {30, 23, 17, 12, 76, 58, 98, 58, 24, 36, 92, 17, 75, 74, 78, 78, 0, 11, 67, 17};
 
 
         List<Integer>[] tabelaHash = new List[10];
